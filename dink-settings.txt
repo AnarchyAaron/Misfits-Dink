@@ -140,6 +140,16 @@
     "Siren's staff",
     "Executioner's axe head",
     "Eye of the duke",
-    "Mokhaiotl cloth"
+    "Mokhaiotl cloth",
+    "Magma mutagen",
+    "Tanzanite mutagen",
+    "Ancient blood ornament kit",
+    "Purifying sigil (bottom)",
+    "Purifying sigil (top)",
+    "Purifying sigil (left)",
+    "Purifying sigil (right)",
+    "Purifying sigil (middle)"
+    "Infernal Cape"
+    "Dizana's Quiver"
 ]
 }
