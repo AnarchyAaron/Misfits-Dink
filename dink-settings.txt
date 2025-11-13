@@ -122,12 +122,24 @@
   "slayerSendImage": false,
   "tradeSendImage": false,
   "grandExchangeMinValue": 100000,
-  "xpInterval": 0,
+  "xpInterval": 200000000,
   "clueShowItems": false,
   "killCountMessage": "%USERNAME% has defeated %BOSS% with a completion count of %COUNT%",
   "groupStorageIncludePrice": false,
   "pkSkipFriendly": false,
   "lootRedirectPlayerKill": false,
   "leaguesSendImage": true,
-  "gambleEnabled": false
+  "gambleEnabled": false,
+"lootAllowList": [
+    "Magus vestige",
+    "Bellator vestige",
+    "Ultor vestige",
+    "Venator vestige",
+    "Araxyte fang",
+    "Leviathan's lure",
+    "Siren's staff",
+    "Executioner's axe head",
+    "Eye of the duke",
+    "Mokhaiotl cloth"
+]
 }
