@@ -150,6 +150,6 @@
     "Purifying sigil (right)",
     "Purifying sigil (middle)",
     "Infernal Cape",
-    "Dizana's Quiver",
+    "Dizana's Quiver"
 ]
 }
