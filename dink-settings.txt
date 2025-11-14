@@ -16,7 +16,9 @@
   "speedrunMessage": "%USERNAME% has just finished a speedrun of %QUEST% with a time of %TIME% (their PB is %BEST%)",
   "sendDiscordUser": true,
   "clueSendImage": true,
-  "chatNotifyMessage": "%USERNAME% received a chat message:\n\n\n%MESSAGE%\n",
+
+  "chatNotifyMessage": "%USERNAME% has unlocked a big collection log item:\n\n%MESSAGE%",
+
   "slayerEnabled": false,
   "deathEnabled": false,
   "combatTaskUnlockMessage": "%USERNAME% has unlocked the rewards for the %COMPLETED% tier, by completing the combat task: %TASK%",
@@ -105,12 +107,18 @@
   "killCountBestTimeMessage": "%USERNAME% has defeated %BOSS% with a new personal best time of %TIME% and a completion count of %COUNT%",
   "collectionSendImage": false,
   "screenshotScale": 110,
-  "notifyChat": false,
+
+  "notifyChat": true,
+
   "diaryEnabled": false,
   "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
-  "chatPatterns": "You've unlocked an emote: \nYou've completed the * event\nYou have accepted * into .\nYou will be logged out in approximately 30 minutes.\nYou will be logged out in approximately 10 minutes.*\n",
+
+  "chatPatterns": "New item added to your collection log: Fire cape\nNew item added to your collection log: Infernal cape\nNew item added to your collection log: Dizana's quiver",
+
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
+
   "discordWebhook": "https://discordapp.com/api/webhooks/1426956810459545600/eoZBWATSSXtVH_UjE2pUkYGoYVoZunmnIFWBSmVtgr7LrcbFjjrWYalSOmTHchLhA_2z",
+
   "groupStorageEnabled": false,
   "diaryMessage": "%USERNAME% has completed the %DIFFICULTY% %AREA% Achievement Diary, for a total of %TOTAL% diaries completed",
   "minLootValue": 2500000,
@@ -130,7 +138,8 @@
   "lootRedirectPlayerKill": false,
   "leaguesSendImage": true,
   "gambleEnabled": false,
-"lootAllowList": [
+
+  "lootAllowList": [
     "Magus vestige",
     "Bellator vestige",
     "Ultor vestige",
@@ -149,7 +158,12 @@
     "Purifying sigil (left)",
     "Purifying sigil (right)",
     "Purifying sigil (middle)",
-    "Infernal Cape",
-    "Dizana's Quiver"
-]
+    "Fire cape",
+    "Infernal cape",
+    "Dizana's quiver",
+    "Magus ring",
+    "Bellator ring",
+    "Ultor ring",
+    "Venator ring"
+  ]
 }
