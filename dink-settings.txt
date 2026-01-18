@@ -38,7 +38,10 @@
   "deathIgnoredRegions": " ",
   "deathSafeExceptions": [
     "FIGHT_CAVE",
-    "INFERNO"
+    "INFERNO",
+    "COX",
+    "TOB",
+    "TOA"
   ],
   "deathNotifMessage": "%USERNAME% has died...",
   "deathNotifPvpEnabled": true,
