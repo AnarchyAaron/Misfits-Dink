@@ -137,34 +137,8 @@
   "groupStorageIncludePrice": false,
   "pkSkipFriendly": false,
   "lootRedirectPlayerKill": false,
+  "lootItemAllowlist": "Magus vestige\nBellator vestige\nUltor vestige\nVenator vestige\nAraxyte fang\nLeviathan's lure\nSiren's staff\nExecutioner's axe head\nEye of the duke\nMokhaiotl cloth\nMagma     mutagen\nTanzanite mutagen\nAncient blood ornament kit\nPurifying sigil (bottom)\nPurifying sigil (top)\nPurifying sigil (left)\nPurifying sigil (right)\nPurifying sigil (middle)\nFire cape\nInfernal cape\nDizana's quiver\nMagus ring\nBellator ring\nUltor ring\nVenator ring",
+  "lootWebhook": "https://discordapp.com/api/webhooks/1426956810459545600/eoZBWATSSXtVH_UjE2pUkYGoYVoZunmnIFWBSmVtgr7LrcbFjjrWYalSOmTHchLhA_2z",
+
   "leaguesSendImage": true,
   "gambleEnabled": false,
-
-  "lootAllowList": [
-    "Magus vestige",
-    "Bellator vestige",
-    "Ultor vestige",
-    "Venator vestige",
-    "Araxyte fang",
-    "Leviathan's lure",
-    "Siren's staff",
-    "Executioner's axe head",
-    "Eye of the duke",
-    "Mokhaiotl cloth",
-    "Magma mutagen",
-    "Tanzanite mutagen",
-    "Ancient blood ornament kit",
-    "Purifying sigil (bottom)",
-    "Purifying sigil (top)",
-    "Purifying sigil (left)",
-    "Purifying sigil (right)",
-    "Purifying sigil (middle)",
-    "Fire cape",
-    "Infernal cape",
-    "Dizana's quiver",
-    "Magus ring",
-    "Bellator ring",
-    "Ultor ring",
-    "Venator ring"
-  ]
-}
