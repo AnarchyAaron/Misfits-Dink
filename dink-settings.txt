@@ -69,6 +69,7 @@
   "pkNotifyMessage": "%USERNAME% has PK'd %TARGET%",
   "baseRetryDelay": 2000,
   "killCountPenanceQueen": false,
+  "deathWebhook": "https://discord.com/api/webhooks/1462537572961095840/zIFL7OHR6dU4CdXeVS_NPz_dBIM94YzcKJLI_WR39BcYUZyR5K37X9_6_7tcvPUfn1ew",
   "clueImageMinValue": 2500000,
   "deathIgnoreSafe": true,
   "levelMinValue": 99,
