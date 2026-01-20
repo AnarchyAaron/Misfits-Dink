@@ -57,7 +57,7 @@
   "lootIncludeGambles": false,
   "lootIncludePlayer": false,
   "lootRarityThreshold": 0,
-  "lootRarityValueIntersection": false,
+  "lootRarityValueIntersection": true,
   "lootSourceDenylist": "Einar\n",
   "lootRedirectPlayerKill": false,
   "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
