@@ -55,7 +55,7 @@
   "lootIcons": false,
   "lootIncludeClueScrolls": true,
   "lootIncludeGambles": false,
-  "lootIncludePlayer": false,
+  "lootIncludePlayer": true,
   "lootRarityThreshold": 0,
   "lootRarityValueIntersection": true,
   "lootSourceDenylist": "Einar\n",
