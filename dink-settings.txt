@@ -43,7 +43,7 @@
     "TOB",
     "TOA"
   ],
-  "deathNotifMessage": "%USERNAME% got sent to Lumby.",
+  "deathNotifMessage": "%USERNAME% needs to work on their clicks",
   "deathNotifPvpEnabled": true,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
   "deathWebhook": "https://discord.com/api/webhooks/1462537572961095840/zIFL7OHR6dU4CdXeVS_NPz_dBIM94YzcKJLI_WR39BcYUZyR5K37X9_6_7tcvPUfn1ew",
