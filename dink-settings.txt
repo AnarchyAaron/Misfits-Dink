@@ -132,7 +132,7 @@
   "groupStorageSendImage": false,
   "groupStorageIncludeClan": false,
   "groupStorageIncludePrice": false,
-  "groupStorageMinValue": 0,
+  "groupStorageMinValue": 100000000000,
   "groupStorageNotifyMessage": "%USERNAME% has deposited:\n%DEPOSITED%\n\n%USERNAME% has withdrawn:\n%WITHDRAWN%",
 
   "includeLocation": true,
