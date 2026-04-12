@@ -43,7 +43,7 @@
     "TOB",
     "TOA"
   ],
-  "deathNotifMessage": "%USERNAME% died with honor, unlike some people who turn off their Dink",
+  "deathNotifMessage": "%USERNAME% is trying their best and that's okay",
   "deathNotifPvpEnabled": true,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
   "deathWebhook": "https://discord.com/api/webhooks/1462537572961095840/zIFL7OHR6dU4CdXeVS_NPz_dBIM94YzcKJLI_WR39BcYUZyR5K37X9_6_7tcvPUfn1ew",
