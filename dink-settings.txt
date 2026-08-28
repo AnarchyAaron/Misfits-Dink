@@ -162,5 +162,5 @@
   "imageWriteTimeout": 30,
 
   "dynamicConfigUrl": "https://raw.githubusercontent.com/AnarchyAaron/Misfits-Dink/refs/heads/main/dink-settings.txt",
-  "discordWebhook": "https://discordapp.com/api/webhooks/1426956810459545600/eoZBWATSSXtVH_UjE2pUkYGoYVoZunmnIFWBSmVtgr7LrcbFjjrWYalSOmTHchLhA_2z"
+  "discordWebhook": "https://discord.com/api/webhooks/1543000149175836682/LFinaku6rit1Qja6soUB087F49cvwfP_pBh584k3jRBhCjb5gQs338528nGeinEDToFP"
 }
