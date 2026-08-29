@@ -161,6 +161,6 @@
   "baseRetryDelay": 2000,
   "imageWriteTimeout": 30,
 
-  "dynamicConfigUrl": "https://raw.githubusercontent.com/AnarchyAaron/Misfits-Dink/refs/heads/main/dink-settings.txt?token=GHSAT0AAAAAAEHHI7X4Q2GKUMWBIBTQEWGQ2UTAFFA",
+  "dynamicConfigUrl": "https://raw.githubusercontent.com/AnarchyAaron/Misfits-Dink/refs/heads/main/dink-settings.txt",
   "discordWebhook": ""
 }
