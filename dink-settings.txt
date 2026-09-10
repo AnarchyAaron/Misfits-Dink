@@ -35,7 +35,7 @@
   "deathSendImage": true,
   "deathIgnoreSafe": true,
   "deathEmbedProtected": false,
-  "deathIgnoredRegions": " ",
+  "deathIgnoredRegions": "",
   "deathSafeExceptions": [
     "FIGHT_CAVE",
     "INFERNO",
@@ -71,10 +71,12 @@
   "clueMinValue": 2500000,
   "clueImageMinValue": 2500000,
   "clueNotifMessage": "%USERNAME% has completed a %CLUE% clue, they have completed %COUNT%.\nThey obtained:\n\n%LOOT%",
+  "clueWebhook": "https://dink.pajlada.se/webhook/3db76a8b412884e31c0eae239840b4c3a950216a67723b9415eb0360e2141441",
 
   "petEnabled": true,
   "petSendImage": true,
   "petNotifMessage": "%USERNAME% has a funny feeling they are being followed",
+  "petWebhook": "https://dink.pajlada.se/webhook/3db76a8b412884e31c0eae239840b4c3a950216a67723b9415eb0360e2141441",
 
   "levelEnabled": true,
   "levelSendImage": true,
@@ -86,6 +88,7 @@
   "levelMinScreenshotValue": 1,
   "levelNotifMessage": "%USERNAME% has levelled %SKILL%",
   "xpInterval": 200000000,
+  "levelWebhook": "https://dink.pajlada.se/webhook/3db76a8b412884e31c0eae239840b4c3a950216a67723b9415eb0360e2141441",
 
   "collectionLogEnabled": false,
   "collectionSendImage": false,
@@ -100,6 +103,7 @@
   "chatSendImage": true,
   "chatNotifyMessage": "%USERNAME% has unlocked a big collection log item:\n\n%MESSAGE%",
   "chatPatterns": "New item added to your collection log: Fire cape\nNew item added to your collection log: Infernal cape\nNew item added to your collection log: Dizana's quiver",
+  "chatWebhook": "https://dink.pajlada.se/webhook/3db76a8b412884e31c0eae239840b4c3a950216a67723b9415eb0360e2141441",
 
   "notifyTrades": false,
   "tradeMinValue": 0,
